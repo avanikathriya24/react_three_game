@@ -1,0 +1,25 @@
+{
+  "name": "react-three-game",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.112.0",
+    "@react-three/fiber": "^8.17.6",
+    "@react-three/rapier": "^1.4.0",
+    "@supabase/supabase-js": "^2.45.3",
+    "autoprefixer": "^10.4.20",
+    "next": "^14.2.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  }
+}
